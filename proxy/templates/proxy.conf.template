@@ -35,13 +35,13 @@ server {
 	#ssl_dhparam /etc/letsencrypt/ssl-dhparam.pem;
 	#include /etc/letsencrypt/options-ssl-nginx.conf;
 
-        if ( $host = www.${NGINX_HOST} ) {
-               return 301 https://${SUBDOMAIN}.${NGINX_HOST}$request_uri;
-        }
+    if ( $host = www.${NGINX_HOST} ) {
+        return 301 https://${SUBDOMAIN}.${NGINX_HOST}$request_uri;
+    }
 
-        if ( $host = ${NGINX_HOST} ) {
-               return 301 https://${SUBDOMAIN}.${NGINX_HOST}$request_uri;
-        }
+    if ( $host = ${NGINX_HOST} ) {
+        return 301 https://${SUBDOMAIN}.${NGINX_HOST}$request_uri;
+    }
 		
 	location / {		
 		proxy_pass	http://docker_n8n;		

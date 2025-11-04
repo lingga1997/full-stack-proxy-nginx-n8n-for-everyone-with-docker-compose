@@ -35,7 +35,7 @@ Plus, manage docker containers with Portainer.
 </p>
 
 ##### Note: Fedora 37, 39 and alpine linux x86-64 compatible, could not try sles IBM Z s390x, rhel IBM Z s390x and raspberrypi.
-																																																												  
+
 #### With this project you can quickly run the following:
 
 - [n8n](https://hub.docker.com/r/n8nio/n8n)
@@ -97,7 +97,7 @@ Clone this repository or copy the files from this repository into a new folder.
 Make sure to [add your user to the `docker` group](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user).
 
 #### Configuration
-				 
+
 download with
 ```
 git clone https://github.com/damalis/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose.git
@@ -140,7 +140,7 @@ Edit the `.env` file to change values of
   </tr>
   <tr>
     <td>remotehost</td>
-    <td><code>certbot certonly --webroot --webroot-path /tmp/acme-challenge --rsa-key-size 4096 --non-interactive --agree-tos --no-eff-email --force-renewal --email ${LETSENCRYPT_EMAIL} -d ${DOMAIN_NAME} -d www.${DOMAIN_NAME}</code></td>
+    <td><code>certbot certonly --webroot --webroot-path /tmp/acme-challenge --rsa-key-size 4096 --non-interactive --agree-tos --no-eff-email --force-renewal --email ${LETSENCRYPT_EMAIL} -d ${DOMAIN_NAME} -d www.${DOMAIN_NAME} -d ${SUBDOMAIN$}.{DOMAIN_NAME}</code></td>
   </tr>
 </tbody>
 </table>
